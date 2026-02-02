@@ -4,6 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
     
+    //Name: Harper Larsen
+    //Assignment: Program 1
+    //Class: TTH 1-2:15
+    //Lab: W 1-3:30
+    
     //create variables
 
     Scanner scanner = new Scanner(System.in);
